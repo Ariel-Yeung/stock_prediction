@@ -1,0 +1,641 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.30)  9 DEC 2020 16:50
+entering extended mode
+**./cs_613_final_report.tex
+(cs_613_final_report.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count175
+\@IEEEtrantmpcountB=\count176
+\@IEEEtrantmpcountC=\count177
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@IEEEsubequation=\count182
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count183
+\c@table=\count184
+\@IEEEeqnnumcols=\count185
+\@IEEEeqncolcnt=\count186
+\@IEEEsubeqnnumrollback=\count187
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count188
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count189
+\@IEEEtranrubishbin=\box48
+) (C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen162
+))
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks17
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks18
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks19
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.s
+ty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\c@ALC@unique=\count268
+\c@ALC@line=\count269
+\c@ALC@rem=\count270
+\c@ALC@depth=\count271
+\ALC@tlm=\skip53
+\algorithmicindent=\skip54
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip55
+\subfigcapskip=\skip56
+\subfigcaptopadj=\dimen173
+\subfigbottomskip=\skip57
+\subfigcapmargin=\dimen174
+\subfiglabelskip=\skip58
+\c@subfigure=\count272
+\c@lofdepth=\count273
+\c@subtable=\count274
+\c@lotdepth=\count275
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip59
+\subfig@bottom=\skip60
+) (C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count276
+\l__pdf_internal_box=\box51
+) (cs_613_final_report.aux)
+\openout1 = `cs_613_final_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+-- Lines per column: 56 (exact).
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count277
+\scratchdimen=\dimen175
+\scratchbox=\box52
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen176
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks23
+)
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) [1{C:/Users/YING/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+]
+<./image/flow_chart.PNG, id=9, 308.00786pt x 333.81857pt>
+File: ./image/flow_chart.PNG Graphic file (type png)
+<use ./image/flow_chart.PNG>
+Package pdftex.def Info: ./image/flow_chart.PNG  used on input line 53.
+(pdftex.def)             Requested size: 252.0pt x 273.12175pt.
+<./image/k_fold_no_blocking.PNG, id=11, 409.53pt x 281.05pt>
+File: ./image/k_fold_no_blocking.PNG Graphic file (type png)
+<use ./image/k_fold_no_blocking.PNG>
+Package pdftex.def Info: ./image/k_fold_no_blocking.PNG  used on input line 74.
+
+(pdftex.def)             Requested size: 113.39923pt x 77.82289pt.
+<./image/k_fold_blocking.PNG, id=12, 405.515pt x 281.05pt>
+File: ./image/k_fold_blocking.PNG Graphic file (type png)
+<use ./image/k_fold_blocking.PNG>
+Package pdftex.def Info: ./image/k_fold_blocking.PNG  used on input line 76.
+(pdftex.def)             Requested size: 113.39923pt x 78.59053pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+
+
+(C:\Users\YING\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[2 <./image/flow_chart.PNG> <./image/k_fold_no_blocking.PNG> <./image/k_fold_bl
+ocking.PNG>]
+<./image/k_fold_IBM_RMSE_no_blocking.PNG, id=20, 612.57428pt x 253.37518pt>
+File: ./image/k_fold_IBM_RMSE_no_blocking.PNG Graphic file (type png)
+<use ./image/k_fold_IBM_RMSE_no_blocking.PNG>
+Package pdftex.def Info: ./image/k_fold_IBM_RMSE_no_blocking.PNG  used on input
+ line 102.
+(pdftex.def)             Requested size: 252.0pt x 104.23245pt.
+<./image/k_fold_IBM_RMSE_blocking.PNG, id=21, 609.99321pt x 248.21304pt>
+File: ./image/k_fold_IBM_RMSE_blocking.PNG Graphic file (type png)
+<use ./image/k_fold_IBM_RMSE_blocking.PNG>
+Package pdftex.def Info: ./image/k_fold_IBM_RMSE_blocking.PNG  used on input li
+ne 103.
+(pdftex.def)             Requested size: 252.0pt x 102.54062pt.
+<./image/pca_no_pca.PNG, id=22, 677.53125pt x 90.3375pt>
+File: ./image/pca_no_pca.PNG Graphic file (type png)
+<use ./image/pca_no_pca.PNG>
+Package pdftex.def Info: ./image/pca_no_pca.PNG  used on input line 117.
+(pdftex.def)             Requested size: 252.0pt x 33.5994pt.
+<./image/final_rmse_IBM.PNG, id=23, 612.1441pt x 103.67303pt>
+File: ./image/final_rmse_IBM.PNG Graphic file (type png)
+<use ./image/final_rmse_IBM.PNG>
+Package pdftex.def Info: ./image/final_rmse_IBM.PNG  used on input line 127.
+(pdftex.def)             Requested size: 252.0pt x 42.67863pt.
+<./image/final_rmse_AAPL.PNG, id=24, 634.5134pt x 98.94107pt>
+File: ./image/final_rmse_AAPL.PNG Graphic file (type png)
+<use ./image/final_rmse_AAPL.PNG>
+Package pdftex.def Info: ./image/final_rmse_AAPL.PNG  used on input line 128.
+(pdftex.def)             Requested size: 252.0pt x 39.2949pt.
+<./image/final_rmse_JNJ.PNG, id=25, 608.70268pt x 101.09196pt>
+File: ./image/final_rmse_JNJ.PNG Graphic file (type png)
+<use ./image/final_rmse_JNJ.PNG>
+Package pdftex.def Info: ./image/final_rmse_JNJ.PNG  used on input line 129.
+(pdftex.def)             Requested size: 252.0pt x 41.85211pt.
+<./image/AAPL_special_rmse.PNG, id=26, 633.65303pt x 255.09589pt>
+File: ./image/AAPL_special_rmse.PNG Graphic file (type png)
+<use ./image/AAPL_special_rmse.PNG>
+Package pdftex.def Info: ./image/AAPL_special_rmse.PNG  used on input line 135.
+
+(pdftex.def)             Requested size: 251.99673pt x 80.63588pt.
+<./image/result/IBM_open_price_forcast_using_linear_regression_with_blocking.pn
+g, id=27, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_linear_regression_with_blocki
+ng.png Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_linear_regression_with_blockin
+g.png>
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_linear_reg
+ression_with_blocking.png  used on input line 144.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/IBM_open_price_forcast_using_bayesian_ridge_regression_with_blo
+cking.png, id=28, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_bayesian_ridge_regression_wit
+h_blocking.png Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_bayesian_ridge_regression_with
+_blocking.png>
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_bayesian_r
+idge_regression_with_blocking.png  used on input line 145.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/IBM_open_price_forcast_using_lasso_regression_with_blocking.png
+, id=29, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_lasso_regression_with_blockin
+g.png Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_lasso_regression_with_blocking
+.png>
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_lasso_regr
+ession_with_blocking.png  used on input line 146.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/IBM_open_price_forcast_using_decision_tree_regression_with_bloc
+king.png, id=30, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_decision_tree_regression_with
+_blocking.png Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_decision_tree_regression_with_
+blocking.png>
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_decision_t
+ree_regression_with_blocking.png  used on input line 147.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/IBM_open_price_forcast_using_random_forest_regression_with_bloc
+king.png, id=31, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_random_forest_regression_with
+_blocking.png Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_random_forest_regression_with_
+blocking.png>
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_random_for
+est_regression_with_blocking.png  used on input line 148.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/IBM_open_price_forcast_using_support_vector_regression_with_blo
+cking.png, id=32, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_support_vector_regression_wit
+h_blocking.png Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_support_vector_regression_with
+_blocking.png>
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_support_ve
+ctor_regression_with_blocking.png  used on input line 149.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/IBM_open_price_forcast_using_LSTM_k_fold_with_blocking.png, id=
+33, 433.62pt x 289.08pt>
+File: ./image/result/IBM_open_price_forcast_using_LSTM_k_fold_with_blocking.png
+ Graphic file (type png)
+<use ./image/result/IBM_open_price_forcast_using_LSTM_k_fold_with_blocking.png>
+
+Package pdftex.def Info: ./image/result/IBM_open_price_forcast_using_LSTM_k_fol
+d_with_blocking.png  used on input line 150.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+
+
+LaTeX Warning: Float too large for page by 49.0309pt on input line 153.
+
+<./image/result/AAPL_open_price_forcast_using_linear_regression_with_blocking.p
+ng, id=34, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_linear_regression_with_block
+ing.png Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_linear_regression_with_blocki
+ng.png>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_linear_re
+gression_with_blocking.png  used on input line 156.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/AAPL_open_price_forcast_using_bayesian_ridge_regression_with_bl
+ocking.png, id=35, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_bayesian_ridge_regression_wi
+th_blocking.png Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_bayesian_ridge_regression_wit
+h_blocking.png>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_bayesian_
+ridge_regression_with_blocking.png  used on input line 157.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/AAPL_open_price_forcast_using_lasso_regression_with_blocking.pn
+g, id=36, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_lasso_regression_with_blocki
+ng.png Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_lasso_regression_with_blockin
+g.png>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_lasso_reg
+ression_with_blocking.png  used on input line 158.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/AAPL_open_price_forcast_using_decision_tree_regression_with_blo
+cking.png, id=37, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_decision_tree_regression_wit
+h_blocking.png Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_decision_tree_regression_with
+_blocking.png>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_decision_
+tree_regression_with_blocking.png  used on input line 159.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/AAPL_open_price_forcast_using_random_forest_regression_with_blo
+cking.png, id=38, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_random_forest_regression_wit
+h_blocking.png Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_random_forest_regression_with
+_blocking.png>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_random_fo
+rest_regression_with_blocking.png  used on input line 160.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/AAPL_open_price_forcast_using_support_vector_regression_with_bl
+ocking.png, id=39, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_support_vector_regression_wi
+th_blocking.png Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_support_vector_regression_wit
+h_blocking.png>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_support_v
+ector_regression_with_blocking.png  used on input line 161.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/AAPL_open_price_forcast_using_LSTM_k_fold_with_blocking.png, id
+=40, 433.62pt x 289.08pt>
+File: ./image/result/AAPL_open_price_forcast_using_LSTM_k_fold_with_blocking.pn
+g Graphic file (type png)
+<use ./image/result/AAPL_open_price_forcast_using_LSTM_k_fold_with_blocking.png
+>
+Package pdftex.def Info: ./image/result/AAPL_open_price_forcast_using_LSTM_k_fo
+ld_with_blocking.png  used on input line 162.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+
+LaTeX Warning: Float too large for page by 49.0309pt on input line 165.
+
+<./image/result/JNJ_open_price_forcast_using_linear_regression_with_blocking.pn
+g, id=41, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_linear_regression_with_blocki
+ng.png Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_linear_regression_with_blockin
+g.png>
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_linear_reg
+ression_with_blocking.png  used on input line 168.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/JNJ_open_price_forcast_using_bayesian_ridge_regression_with_blo
+cking.png, id=42, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_bayesian_ridge_regression_wit
+h_blocking.png Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_bayesian_ridge_regression_with
+_blocking.png>
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_bayesian_r
+idge_regression_with_blocking.png  used on input line 169.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/JNJ_open_price_forcast_using_lasso_regression_with_blocking.png
+, id=43, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_lasso_regression_with_blockin
+g.png Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_lasso_regression_with_blocking
+.png>
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_lasso_regr
+ession_with_blocking.png  used on input line 170.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/JNJ_open_price_forcast_using_decision_tree_regression_with_bloc
+king.png, id=44, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_decision_tree_regression_with
+_blocking.png Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_decision_tree_regression_with_
+blocking.png>
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_decision_t
+ree_regression_with_blocking.png  used on input line 171.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/JNJ_open_price_forcast_using_random_forest_regression_with_bloc
+king.png, id=45, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_random_forest_regression_with
+_blocking.png Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_random_forest_regression_with_
+blocking.png>
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_random_for
+est_regression_with_blocking.png  used on input line 172.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/JNJ_open_price_forcast_using_support_vector_regression_with_blo
+cking.png, id=46, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_support_vector_regression_wit
+h_blocking.png Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_support_vector_regression_with
+_blocking.png>
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_support_ve
+ctor_regression_with_blocking.png  used on input line 173.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+<./image/result/JNJ_open_price_forcast_using_LSTM_k_fold_with_blocking.png, id=
+47, 433.62pt x 289.08pt>
+File: ./image/result/JNJ_open_price_forcast_using_LSTM_k_fold_with_blocking.png
+ Graphic file (type png)
+<use ./image/result/JNJ_open_price_forcast_using_LSTM_k_fold_with_blocking.png>
+
+Package pdftex.def Info: ./image/result/JNJ_open_price_forcast_using_LSTM_k_fol
+d_with_blocking.png  used on input line 174.
+(pdftex.def)             Requested size: 252.00262pt x 80.63307pt.
+
+LaTeX Warning: Float too large for page by 49.0309pt on input line 177.
+
+[3 <./image/k_fold_IBM_RMSE_no_blocking.PNG> <./image/k_fold_IBM_RMSE_blocking.
+PNG> <./image/pca_no_pca.PNG>] [4 <./image/final_rmse_IBM.PNG> <./image/final_r
+mse_AAPL.PNG> <./image/final_rmse_JNJ.PNG> <./image/AAPL_special_rmse.PNG> <./i
+mage/result/IBM_open_price_forcast_using_linear_regression_with_blocking.png> <
+./image/result/IBM_open_price_forcast_using_bayesian_ridge_regression_with_bloc
+king.png> <./image/result/IBM_open_price_forcast_using_lasso_regression_with_bl
+ocking.png> <./image/result/IBM_open_price_forcast_using_decision_tree_regressi
+on_with_blocking.png> <./image/result/IBM_open_price_forcast_using_random_fores
+t_regression_with_blocking.png> <./image/result/IBM_open_price_forcast_using_su
+pport_vector_regression_with_blocking.png> <./image/result/IBM_open_price_forca
+st_using_LSTM_k_fold_with_blocking.png>] [5 <./image/result/AAPL_open_price_for
+cast_using_linear_regression_with_blocking.png> <./image/result/AAPL_open_price
+_forcast_using_bayesian_ridge_regression_with_blocking.png> <./image/result/AAP
+L_open_price_forcast_using_lasso_regression_with_blocking.png> <./image/result/
+AAPL_open_price_forcast_using_decision_tree_regression_with_blocking.png> <./im
+age/result/AAPL_open_price_forcast_using_random_forest_regression_with_blocking
+.png> <./image/result/AAPL_open_price_forcast_using_support_vector_regression_w
+ith_blocking.png> <./image/result/AAPL_open_price_forcast_using_LSTM_k_fold_wit
+h_blocking.png> <./image/result/JNJ_open_price_forcast_using_linear_regression_
+with_blocking.png> <./image/result/JNJ_open_price_forcast_using_bayesian_ridge_
+regression_with_blocking.png> <./image/result/JNJ_open_price_forcast_using_lass
+o_regression_with_blocking.png> <./image/result/JNJ_open_price_forcast_using_de
+cision_tree_regression_with_blocking.png> <./image/result/JNJ_open_price_forcas
+t_using_random_forest_regression_with_blocking.png> <./image/result/JNJ_open_pr
+ice_forcast_using_support_vector_regression_with_blocking.png> <./image/result/
+JNJ_open_price_forcast_using_LSTM_k_fold_with_blocking.png>]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6
+
+] (cs_613_final_report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4229 strings out of 480236
+ 72128 string characters out of 2881032
+ 357292 words of memory out of 3000000
+ 20726 multiletter control sequences out of 15000+200000
+ 566154 words of font info for 85 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,8n,66p,1449b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/YING/AppData/Local/Programs/MiKTeX/fonts
+/enc/dvips/base/8r.enc}<C:/Users/YING/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Users/YING/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/times/utmb8a.pfb><C:/Users/YING/AppData/Local/Programs/MiKTeX/fonts
+/type1/urw/times/utmbi8a.pfb><C:/Users/YING/AppData/Local/Programs/MiKTeX/fonts
+/type1/urw/times/utmr8a.pfb><C:/Users/YING/AppData/Local/Programs/MiKTeX/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on cs_613_final_report.pdf (6 pages, 948025 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+
